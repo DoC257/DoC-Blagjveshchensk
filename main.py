@@ -74,3 +74,4 @@ if __name__ == "__main__":
     window = Supermatism()
     window.show()
     sys.exit(app.exec())
+
